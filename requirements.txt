@@ -1,0 +1,10 @@
+# Este proyecto de Blockchain minimalista solo utiliza módulos estándar
+# de Python (hashlib, json, time). 
+# Por lo tanto, no se requieren dependencias externas para su funcionamiento básico.
+#
+# Si en el futuro se implementa la expansión con la API Web (Flask), las dependencias serían:
+# Flask
+# requests
+
+Flask==3.0.0
+requests==2.31.0
